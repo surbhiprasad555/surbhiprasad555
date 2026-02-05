@@ -1,13 +1,13 @@
 <div align="center">
-  <!-- Pastel Mint Green Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=B2F2BB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Heyy+there+my+name+is+Surbhi;Good+to+see+you+here" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=7DFFB3&background=0D1117&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Heyy+there+my+name+is+Surbhi;Good+to+see+you+here" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👋 About Me
 - ☁️ **Cloud Engineer** passionate about building scalable and resilient infrastructure.
-- 🎓 B.Tech Computer Science student at **[Your University Name]**
+- 🎓 B.Tech Computer Science student at **Lovely Professional University**
 - 🔍 Curious mind with a strong interest in **Cloud Architecture, DevOps**, and real-world problem solving.
 - 💡 I love turning code into scalable solutions and building end-to-end applications.
 - 🌱 Currently learning: **Machine Learning, Django**, and advanced **AWS** services.
@@ -40,8 +40,7 @@
 
 ### 📈 My Activity Graph
 <div align="center">
-  <!-- Activity Graph in Pastel Green/Blue -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhiprasad555&theme=github-vibrant-neon&bg_color=0d1117&color=B2F2BB&line=B2F2BB&point=B2F2BB&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhiprasad555&theme=github-vibrant-neon&bg_color=0d1117&color=7DFFB3&line=7DFFB3&point=7DFFB3&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
