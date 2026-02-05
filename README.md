@@ -1,49 +1,51 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF33FF&center=true&vCenter=true&width=600&lines=welcome+to+my+github;heyy+there+my+name+is+surbhi;good+to+see+you+here" alt="Typing SVG" />
+  <!-- Pastel Mint Green Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=B2F2BB&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;Heyy+there+my+name+is+Surbhi;Good+to+see+you+here" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 👋 About Me
 - ☁️ **Cloud Engineer** passionate about building scalable and resilient infrastructure.
-- 🎓 B.Tech Computer Science student at **Lovely Professional University**
+- 🎓 B.Tech Computer Science student at **[Your University Name]**
 - 🔍 Curious mind with a strong interest in **Cloud Architecture, DevOps**, and real-world problem solving.
 - 💡 I love turning code into scalable solutions and building end-to-end applications.
 - 🌱 Currently learning: **Machine Learning, Django**, and advanced **AWS** services.
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack (Pastel Edition)
 
 **Languages & Logic**
-![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-AEC6CF?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-B19CD9?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-FFB347?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-77DD77?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend & Design**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF6961?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-779ECB?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-FDFD96?style=for-the-badge&logo=javascript&logoColor=grey) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-C3B1E1?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Cloud & Database**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Database](https://img.shields.io/badge/DBMS-Database-blue?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFD1DC?style=for-the-badge&logo=amazon-aws&logoColor=grey) 
+![MySQL](https://img.shields.io/badge/MySQL-B2F2BB?style=for-the-badge&logo=mysql&logoColor=grey) 
+![DBMS](https://img.shields.io/badge/DBMS-CFCFC4?style=for-the-badge&logo=databricks&logoColor=white)
 
 **Core Fundamentals**
-![DSA](https://img.shields.io/badge/DSA-Data%20Structures-red?style=for-the-badge)
+![DSA](https://img.shields.io/badge/DSA-FFB3BA?style=for-the-badge)
+
+---
+
+### 📈 My Activity Graph
+<div align="center">
+  <!-- Activity Graph in Pastel Green/Blue -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surbhiprasad555&theme=github-vibrant-neon&bg_color=0d1117&color=B2F2BB&line=B2F2BB&point=B2F2BB&area=true&hide_border=true" width="100%" />
+</div>
 
 ---
 
 ### 🎯 My Goal
 - 🔹 To become a **Senior Cloud Architect** with expertise in multi-cloud environments.
 - 🔹 To craft **smart, scalable**, and **impact-driven** tech solutions.
-- 🔹 To combine the power of **Automation** and **Cloud** to solve real-world problems.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?surbhiprasad555&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
